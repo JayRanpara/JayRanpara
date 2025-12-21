@@ -1,7 +1,7 @@
 # Hi, I'm Jay 👋
 
 🎓 **Computer Science Student (2nd Year)**  
-💻 **Backend & Frontend Developer | UI/UX Enthusiast**  
+💻 **Backend & Frontend Developer  
 🚀 Building scalable apps with **React, Express, MSSQL, MongoDB**  
 🎨 Creative coder who loves mnemonics, sketching, and collaborative projects  
 
@@ -29,8 +29,7 @@
 
 
 ## 🌱 Current Goals
-- Master **backend troubleshooting & guardrails** for real-world apps  
-- Refine **UI/UX polish** for portfolio-ready projects  
+- Master **backend troubleshooting & guardrails** for real-world apps   
 - Contribute to **open-source** and collaborative coding challenges  
 
 ---
